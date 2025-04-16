@@ -19,6 +19,8 @@ This dashboard illustrates two distinct scenarios:
 - Transformation of the same three metric cards to zero counts
 - Animations that reinforce the efficiency and accuracy of the Simbian approach
 
+ *Automatic Transition from Without Simbian to With Simbian that visually tells the transformation story*
+
 ## Technologies Used
 
 - **Framework**: Next.js with App Router
@@ -40,15 +42,6 @@ I used Framer Motion for all animations due to its robust API and excellent perf
 - Smooth transitions between workflow steps
 - Subtle background effects to enhance the visual distinction between sections
 
-## Future Improvements
-
-With additional time, I would implement:
-1. More detailed alert information on click/hover
-2. Additional animation variations for alert arrivals
-3. User-configurable simulation parameters
-4. Dark/light theme toggle
-5. More advanced alert correlation visualizations
-
 ---
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -65,7 +58,6 @@ npm dev
 # or
 bun dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
@@ -86,3 +78,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+## Screenshots
+(https://github.com/user-attachments/assets/ded14de1-34dc-40a3-a1ed-b8b4c6953723)
+(https://github.com/user-attachments/assets/7d9ef3be-9bc2-48f9-aea6-ec0ea631750a)
+(https://github.com/user-attachments/assets/2fb36f05-40ce-48ab-b0eb-8288054631b7)
+(https://github.com/user-attachments/assets/143fd84e-4be5-419c-97a8-64e2c865b232)
